@@ -2,8 +2,11 @@
 
 ## URL links for Heroku
 
-[omar-server-deploy-dev](https://omar-server-deploy-dev.herokuapp.com/)
-[omar-server-deploy-prod](https://omar-server-deploy-prod.herokuapp.com/)
+- dev branch
+  [omar-server-deploy-dev](https://omar-server-deploy-dev.herokuapp.com/)
+
+- main branch
+  [omar-server-deploy-prod](https://omar-server-deploy-prod.herokuapp.com/)
 
 ## Data Flow Diagram
 
