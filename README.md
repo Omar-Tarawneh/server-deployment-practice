@@ -8,6 +8,12 @@
 - main branch
   [omar-server-deploy-prod](https://omar-server-deploy-prod.herokuapp.com/)
 
+- Github Pull Request
+  [Pull-Request](https://github.com/Omar-Tarawneh/server-deployment-practice/pull/2)
+
+- Action
+  [Action](https://github.com/Omar-Tarawneh/server-deployment-practice/actions)
+
 ## Data Flow Diagram
 
 ![data-flow-diagram](img/Lab01-v2.png)
