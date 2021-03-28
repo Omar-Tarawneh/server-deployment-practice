@@ -15,6 +15,13 @@ app.get('/bad', (req, res) => {
 
 app.use('*', notFoundHandler);
 app.use(errorHandler);
+
+/**
+ * function that start the server on a specific PORT
+ * @param {number} port
+ * @example
+ *      listen(3000)
+ */
 const listen = (port) => {
   app.listen(port, () => {
     console.log('The app is listening on the PORT: ', port);
